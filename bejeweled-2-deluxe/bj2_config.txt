@@ -3,7 +3,7 @@
 
 //url for upsell buttons
 
-&upselllink=http://www.doublegames.com/download_game/pc/en/bejeweled-2-deluxe&
+&upselllink=https://store.steampowered.com/app/3300/Bejeweled_2_Deluxe/
 
 
 //turn music in the game true / false
